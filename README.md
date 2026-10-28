@@ -54,10 +54,3 @@ Foram utilizados **prompts** em ferramentas como:
 
 O uso da IA serviu como **apoio** à pesquisa, organização e desenvolvimento do conteúdo, e todo o material foi **revisado pelos integrantes do grupo**.
 
----
-
-<div align="center">
-
-### ✨ Feito com dedicação pela turma **RGI61** ✨
-
-</div>

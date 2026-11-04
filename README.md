@@ -48,7 +48,7 @@ O projeto explora como a **Inteligência Artificial** pode ser usada como aliada
 
 Foram utilizados **prompts** em ferramentas como:
 
-- 🟠 **Claude**
+- 🟠 **Claude AI**
 - 🟢 **ChatGPT**
 - 🔵 **Gemini**
 

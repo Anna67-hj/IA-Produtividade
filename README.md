@@ -38,7 +38,6 @@ O projeto explora como a **Inteligência Artificial** pode ser usada como aliada
 | Bernardo Castro dos Santos |
 | Camilli Vitória Ramos dos Santos |
 | Kauã Fernando Santos da Silva |
-| Henry de Castro Santos |
 
 ---
 
